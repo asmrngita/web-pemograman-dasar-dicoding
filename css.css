@@ -8,8 +8,9 @@ body {
     float: center;
     background-position: center;
     padding: 0px;
-    background-image: url("file:///C:/Users/gitaa/AppData/Local/Temp/MicrosoftEdgeDownloads/ef5a2422-9671-4b6e-a63e-0fbb59d2ce18/AnyConv.com__Copy%20of%20Collab%20with%20Ana.webp");
+    background-color: #367eb3;
   }
+
 main {
     padding: 150px;
 }
@@ -30,6 +31,8 @@ header ul {
 header ul li a:hover {
     color: #4db1ef;
 }
+
+
 #profile header,
 h2,
 figure,
